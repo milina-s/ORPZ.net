@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TH/EPPz9sN+9F3fyXXXCQPWPZ+Tj+e2WceAF+R1or/S+60zGzgsa05NCrjg8zGxjFEt9SM1oo1lgC4Rj8YxR6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USer\\OneDrive\\Рабочий стол\\ORPZ\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

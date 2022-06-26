@@ -1,0 +1,14 @@
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\USer\OneDrive\Рабочий стол\my3\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache

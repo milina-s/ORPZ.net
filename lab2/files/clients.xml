@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clients>
+  <client>
+    <id>1</id>
+    <name>Mila</name>
+    <secondname>Samokh</secondname>
+    <lastname>Dmitr</lastname>
+    <address>fgfh</address>
+    <phone>380663151286</phone>
+  </client>
+</clients>

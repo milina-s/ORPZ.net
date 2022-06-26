@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<autos>
+  <auto>
+    <id>1</id>
+    <brand>bmw</brand>
+    <model>x5</model>
+    <year>2022</year>
+    <costPerDay>96</costPerDay>
+    <deposit>2500</deposit>
+  </auto>
+  <auto>
+    <id>2</id>
+    <brand>dfdg</brand>
+    <model>fvr</model>
+    <year>2017</year>
+    <costPerDay>28</costPerDay>
+    <deposit>200</deposit>
+  </auto>
+</autos>
